@@ -10,7 +10,7 @@
   "dependencies": {
     "bignumber.js": ">=2.0.0",
     "envify": "^3.0.0",
-    "unreachable-branch-transform": "^0.1.0",
+    "unreachable-branch-transform": "^0.2.1",
     "xmlhttprequest": "*"
   },
   "devDependencies": {
